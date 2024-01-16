@@ -82,13 +82,10 @@
 #contact .row {
 }
 #contact .col-md-6 {
-  font-size: 20px;
   margin: 3rem 0rem 4rem 0rem;
 }
-#contact .col-md-5 {
-  margin: 3rem 0rem 4rem 0rem;
-}
-#contact .col-md-5 button {
+
+#contact .col-md-6 button {
   border: none;
   outline: none;
   background-color: #ffffff;
