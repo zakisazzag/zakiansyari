@@ -104,3 +104,14 @@
   text-align: center;
   text-transform: capitalize;
 }
+
+
+@media (max-width:"550px") {
+  .jumbotron {
+    width:100%;
+    Height:100vh;
+  }
+  
+}
+
+  
